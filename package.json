@@ -1,0 +1,29 @@
+{
+  "name": "overtop.file",
+  "version": "0.0.1",
+  "description": "A promise and async/await wrapper for NodeJS fs module. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-debug": "mocha --inspect-brk --inspect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncgreco1440/overtop.file.git"
+  },
+  "keywords": [
+    "fs",
+    "async",
+    "promise",
+    "promisify",
+    "overtop",
+    "file",
+    "await"
+  ],
+  "author": "Nico Greco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncgreco1440/overtop.file/issues"
+  },
+  "homepage": "https://github.com/ncgreco1440/overtop.file#readme"
+}
