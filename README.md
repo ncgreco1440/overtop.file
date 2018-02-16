@@ -5,6 +5,9 @@ fs wrapper for NodeJS which allows fs functions to return a promise and/or use t
 ## Documentation
 ---
 
+Using the File Stream as is, can be a sloppy way to go about handling files in NodeJS. Which is why you should use a wrapper
+such as this to make things easier when it comes to the inevitable errors that must be handled.
+
 #### Read a file
 
 To read a file, use the **read** function
